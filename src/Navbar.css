@@ -1,0 +1,16 @@
+main {
+    margin: 10px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+
+}
+
+.navbar__title {
+    margin-right: auto;
+    font-size: 50px;
+    padding: 12px;
+}
+
